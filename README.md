@@ -1,1 +1,1 @@
-# JS_Learning
+- [초보자를 위한 javascript 200제](https://book.naver.com/bookdb/book_detail.nhn?bid=14602049) 실습 Repo
